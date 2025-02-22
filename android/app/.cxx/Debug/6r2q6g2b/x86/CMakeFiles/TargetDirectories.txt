@@ -1,0 +1,2 @@
+C:/develpment/flutter-apps/furniture_app/android/app/.cxx/Debug/6r2q6g2b/x86/CMakeFiles/edit_cache.dir
+C:/develpment/flutter-apps/furniture_app/android/app/.cxx/Debug/6r2q6g2b/x86/CMakeFiles/rebuild_cache.dir
